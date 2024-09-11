@@ -8,7 +8,7 @@
 
 /*--------------------------------------------------------------
 # Font & Color Variables
-# Help: https://bootstrapmade.com/color-system/
+# Help: https://bootstrapma920de.com/color-system/
 --------------------------------------------------------------*/
 /* Fonts */
 :root {
@@ -923,6 +923,8 @@ section,
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
   height: 100%;
+  width: 100%;
+
 }
 
 .services .service-item .icon {
